@@ -6,14 +6,17 @@ import Carrusel from './components/carrusel/Carrusel';
 import './App.css'
 
 function App() {
-  
+
 
   return (
     <div>
-      <Header/>
+      <Header />
+      <br />
       <Carrusel />
-      <Home/>
-      
+      <br />
+      <br />
+      <Home />
+
 
     </div>
   )
