@@ -9,7 +9,7 @@ import "./carrucel.css";
 export const Carrusel = () => {
   return (
     <div>
-      <Carousel>
+      <Carousel data-bs-theme="dark">
         <Carousel.Item>
           <img className='img' src={ExampleCarouselImage1}></img>
           <Carousel.Caption>
