@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "../ejemploF5React/gallery"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/home/Home';
 import { Header } from './components/header/Header';
 import Carrusel from './components/carrusel/Carrusel';
+
 import './App.css'
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
       <br />
       <br />
       <Home />
-
+      
 
     </div>
   )
